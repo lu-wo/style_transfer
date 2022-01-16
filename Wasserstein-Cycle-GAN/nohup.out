@@ -1,0 +1,56 @@
+Traceback (most recent call last):
+  File "train.py", line 5, in <module>
+    from util.visualizer import Visualizer
+  File "/home/ubuntu/projects/rey-figure/src/image_generator/Wasserstein-cycleGAN/WcycleGAN-improved/util/visualizer.py", line 6, in <module>
+    from . import html
+  File "/home/ubuntu/projects/rey-figure/src/image_generator/Wasserstein-cycleGAN/WcycleGAN-improved/util/html.py", line 1, in <module>
+    import dominate
+ModuleNotFoundError: No module named 'dominate'
+Traceback (most recent call last):
+  File "train.py", line 5, in <module>
+    from util.visualizer import Visualizer
+  File "/home/ubuntu/projects/rey-figure/src/image_generator/Wasserstein-cycleGAN/WcycleGAN-improved/util/visualizer.py", line 6, in <module>
+    from . import html
+  File "/home/ubuntu/projects/rey-figure/src/image_generator/Wasserstein-cycleGAN/WcycleGAN-improved/util/html.py", line 1, in <module>
+    import dominate
+ModuleNotFoundError: No module named 'dominate'
+Traceback (most recent call last):
+  File "train.py", line 5, in <module>
+    from util.visualizer import Visualizer
+  File "/home/ubuntu/projects/rey-figure/src/image_generator/Wasserstein-cycleGAN/WcycleGAN-improved/util/visualizer.py", line 6, in <module>
+    from . import html
+  File "/home/ubuntu/projects/rey-figure/src/image_generator/Wasserstein-cycleGAN/WcycleGAN-improved/util/html.py", line 1, in <module>
+    import dominate
+ModuleNotFoundError: No module named 'dominate'
+Traceback (most recent call last):
+  File "train.py", line 5, in <module>
+    from util.visualizer import Visualizer
+  File "/home/ubuntu/projects/rey-figure/src/image_generator/Wasserstein-cycleGAN/WcycleGAN-improved/util/visualizer.py", line 6, in <module>
+    from . import html
+  File "/home/ubuntu/projects/rey-figure/src/image_generator/Wasserstein-cycleGAN/WcycleGAN-improved/util/html.py", line 1, in <module>
+    import dominate
+ModuleNotFoundError: No module named 'dominate'
+Traceback (most recent call last):
+  File "train.py", line 5, in <module>
+    from util.visualizer import Visualizer
+  File "/home/ubuntu/projects/rey-figure/src/image_generator/Wasserstein-cycleGAN/WcycleGAN-improved/util/visualizer.py", line 6, in <module>
+    from . import html
+  File "/home/ubuntu/projects/rey-figure/src/image_generator/Wasserstein-cycleGAN/WcycleGAN-improved/util/html.py", line 1, in <module>
+    import dominate
+ModuleNotFoundError: No module named 'dominate'
+Traceback (most recent call last):
+  File "train.py", line 5, in <module>
+    from util.visualizer import Visualizer
+  File "/home/ubuntu/projects/rey-figure/src/image_generator/Wasserstein-cycleGAN/WcycleGAN-improved/util/visualizer.py", line 6, in <module>
+    from . import html
+  File "/home/ubuntu/projects/rey-figure/src/image_generator/Wasserstein-cycleGAN/WcycleGAN-improved/util/html.py", line 1, in <module>
+    import dominate
+ModuleNotFoundError: No module named 'dominate'
+Traceback (most recent call last):
+  File "train.py", line 5, in <module>
+    from util.visualizer import Visualizer
+  File "/home/ubuntu/projects/rey-figure/src/image_generator/Wasserstein-cycleGAN/WcycleGAN-improved/util/visualizer.py", line 6, in <module>
+    from . import html
+  File "/home/ubuntu/projects/rey-figure/src/image_generator/Wasserstein-cycleGAN/WcycleGAN-improved/util/html.py", line 1, in <module>
+    import dominate
+ModuleNotFoundError: No module named 'dominate'
